@@ -2,8 +2,8 @@ from telethon.tl.functions.channels import JoinChannelRequest
 from telethon import TelegramClient
 import os
 
-api_id = 13484231
-api_hash = '9cabc1b704ba8a590a2b0c7b725f17d6'
+api_id = 12345678
+api_hash = 'kjygiugyguyguyfkyufuf'
 client = TelegramClient('anon', api_id, api_hash)
 limit = 1
 
